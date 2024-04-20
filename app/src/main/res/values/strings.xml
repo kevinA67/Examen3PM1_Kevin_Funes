@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Examen3_Kevin_Funes</string>
+    <string name="tomar">Tomar foto</string>
+    <string name="periodista">Nombre del periodista</string>
+    <string name="descripcion">Descripción de la entrevista</string>
+    <string name="fecha">Fecha</string>
+    <string name="audio">Audio</string>
+    <string name="entrevistas">Entrevistas</string>
+    <string name="lista">Lista de entrevistas</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="ver">Ver entrevista</string>
+    <string name="registrar">Resgistrar</string>
+    <string name="grabar">Grabar</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "718108798755",
+    "project_id": "examen3-ab743",
+    "storage_bucket": "examen3-ab743.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718108798755:android:a187d43bb9683a24b3a696",
+        "android_client_info": {
+          "package_name": "com.example.examen3_kevin_funes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGUHzaA1f5plyZhLkPjWyK0UhsxzHzbzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
