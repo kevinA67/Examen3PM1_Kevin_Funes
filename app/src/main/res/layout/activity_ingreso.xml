@@ -144,7 +144,7 @@
         app:layout_constraintTop_toBottomOf="@+id/txtFecha">
 
         <TextView
-            android:id="@+id/textView5"
+            android:id="@+id/txtGrabar"
             android:layout_width="54dp"
             android:layout_height="31dp"
             android:layout_gravity="center_vertical"
@@ -160,12 +160,11 @@
             android:layout_width="10dp"
             android:layout_height="match_parent" />
 
-        <Button
+        <ImageView
             android:id="@+id/btnGrabar"
             android:layout_width="63dp"
             android:layout_height="match_parent"
-            android:backgroundTint="#00FFFFFF"
-            android:foreground="@drawable/grabaruno"
+            android:background="@drawable/grabaruno"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/txtFecha" />
 
@@ -173,12 +172,11 @@
             android:layout_width="30dp"
             android:layout_height="match_parent" />
 
-        <Button
+        <ImageView
             android:id="@+id/btnReproducir"
             android:layout_width="50dp"
             android:layout_height="wrap_content"
-            android:backgroundTint="#00FFFFFF"
-            android:foreground="@drawable/play"
+            android:background="@drawable/play"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/txtFecha" />
     </LinearLayout>

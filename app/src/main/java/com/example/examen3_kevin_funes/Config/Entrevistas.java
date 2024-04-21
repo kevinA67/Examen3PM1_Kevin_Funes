@@ -21,11 +21,12 @@ public class Entrevistas {
         this.audio = audio;
     }
 
-    public Entrevistas(String periodista, String descripcion, String fecha, String imagen) {
+    public Entrevistas(String periodista, String descripcion, String fecha, String imagen, String audio) {
         this.periodista = periodista;
         this.descripcion = descripcion;
         this.fecha = fecha;
         this.imagen = imagen;
+        this.audio = audio;
     }
 
     public String getId() {
